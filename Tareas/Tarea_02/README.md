@@ -1,0 +1,4 @@
+el primer problema solo consta de crear un codigo que nos proporcione los números entre 1 y 100
+el segundo debe entregar solamente aquellos números entre 1 y 100 que sean divisibes por 3
+el tercero es un codigo donde el usuario ingresa dos números cualquiera los cuales se suman, y dependiendo del resultado saltará un mensaje u otro. En el caso de que el resultado sea menor a 100 saldrá "menor a 100", en el caso de ser mayor a 100 y menor a 150 saldrá "mayor a 100" y en en el caso de ser mayor que 150 saldrá "mayor a 150"
+este codigo contiene una funcion que evualua si el usuario ha comprado accesorios y prensa de ropa falsificadas durante los ultimos 2 años, y despues tiene que indicar cuanto dinero ha gastado en esto. Luego de eso, el usuario tiene que ingresar su presupuesto mensual, luego de eso tiene que incluir cuanto dinero ha gastado en esas prendas y se suma la compra de accesorios y prendas. 
